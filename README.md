@@ -1,4 +1,4 @@
-# accordeon
+# Simple cordeon on javascript
 
 ## Project setup
 ```
